@@ -21,8 +21,8 @@ Expo Dev: [Expo](https://expo.dev/) &nbsp;&middot;&nbsp; <br>
 
 ## 📷 Telas
 
-<img src="./tela-1.jpeg" alt="Alt text" width="200"/> <img src="./img-telas-therapyo/tela-2.gif" alt="Alt text" width="200"/>
-<img src="./img-telas-therapyo/tela-3.gif" alt="Alt text" width="200"/> <img src="./img-telas-therapyo/tela-4.jpeg" alt="Alt text" width="200"/> <img src="./img-telas-therapyo/tela-5.gif" alt="Alt text" width="200"/>
+<img src="./tela-1.jpeg" alt="Alt text" width="200"/> <img src="./tela-2.gif" alt="Alt text" width="200"/>
+<img src="./tela-3.gif" alt="Alt text" width="200"/> <img src="./tela-4.jpeg" alt="Alt text" width="200"/> <img src="./tela-5.gif" alt="Alt text" width="200"/>
 
 ## 🕹️ Como iniciar o projeto
 
